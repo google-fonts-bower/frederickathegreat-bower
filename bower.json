@@ -1,0 +1,17 @@
+{
+    "name": "frederickathegreat-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tart Workshop"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/frederickathegreat-bower.git"
+    },
+    "description": "Fredericka the Great font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
